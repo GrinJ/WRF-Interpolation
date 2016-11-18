@@ -1,6 +1,6 @@
 import numpy
 
-class Interpolate:
+class WRFInterpolation:
 
     def __init__(self, XLAT, XLON):
         """
